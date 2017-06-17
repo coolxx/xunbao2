@@ -212,7 +212,7 @@ header p{
 	width: 16.525rem;
 	height: 29.525rem;
 	top: 2.125rem;
-	left: 29.0.7375rem;
+	left: 0.725rem;
 	background: url(../image/tan4.png) no-repeat center;
 	background-size: 16.525rem 29.525rem;
 	display: none;
@@ -223,7 +223,7 @@ header p{
 	color: #5c3e34;
 	float: left;
 	margin-left: 6.875rem;
-	margin-top: 8.295rem;
+	margin-top: 8.395rem;
 }
 .tankuang4 a:nth-child(odd){
 	margin-left: 2.375rem;
