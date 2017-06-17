@@ -147,7 +147,7 @@ header p{
 	width: 17.3rem;
 	height: 24.35rem;
 	background: url(../image/tan2.png) no-repeat center;
-	background-size: 14.8rem 24.35rem;
+	background-size: 17.3rem 24.35rem;
 	position: absolute;
 	top: 0px;
 	left: 0.35rem;
@@ -223,7 +223,7 @@ header p{
 	color: #5c3e34;
 	float: left;
 	margin-left: 6.875rem;
-	margin-top: 8.275rem;
+	margin-top: 8.295rem;
 }
 .tankuang4 a:nth-child(odd){
 	margin-left: 2.375rem;
@@ -242,7 +242,7 @@ header p{
 	width: 16.525rem;
 	height: 31.275rem;
 	top: 2.125rem;
-	left: 29.0.7375rem;
+	left: 0.725rem;
 	background: url(../image/tan5.png) no-repeat center;
 	background-size: 16.5rem 31.275rem;
 	display: none;
@@ -262,7 +262,7 @@ header p{
 	margin-top: 7.75rem;
 }
 .tankuang5 a:nth-child(5),.tankuang5 a:nth-child(6){
-	margin-top: 9.3rem;
+	margin-top: 9.4rem;
 }
 .tankuang5 em{
 	width: 1.625rem;
